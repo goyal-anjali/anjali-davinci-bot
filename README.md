@@ -1,5 +1,5 @@
 # Description
-🌟 Introducing Code Buddy - DaVinci 🤖 🌟
+This is a Microsoft Teams Bot to review your PRs
 
 Do you often feel overwhelmed by the number of Pull Requests (PRs) waiting for your review? 😓 Or do you get impatient when your own PRs are delayed or ignored by others? We know how you feel!
 
