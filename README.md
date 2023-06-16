@@ -1,5 +1,5 @@
 # Description
-This is a Microsoft Teams Bot to review your PRs - It responds to chat commands. Just type in your PR in the chat and get them reviewed by AI.
+This is a Microsoft Teams Bot to review your PRs - It responds to chat commands. Just type in your PR in the chat and get them reviewed by AI. It has been developed using large language models and trained on OpenAI Studio.
 
 Do you often feel overwhelmed by the number of Pull Requests (PRs) waiting for your review? 😓 Or do you get impatient when your own PRs are delayed or ignored by others? We know how you feel!
 But don’t worry! With "Code Buddy", your LLM powered Code Reviewer, you can clear your PR review backlog and stop nagging your coworkers. 🙌
